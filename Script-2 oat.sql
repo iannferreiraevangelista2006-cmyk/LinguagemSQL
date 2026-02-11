@@ -21,3 +21,5 @@
 
 --alter table produto alter column descricao type varchar(200)
 
+drop table produto
+
